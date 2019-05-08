@@ -1,0 +1,14 @@
+{
+  "name": "raytrace",
+  "version": "1.0.0",
+  "description": "Simple project to test p5js raytracing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anton Benfey",
+  "license": "ISC",
+  "dependencies": {
+    "p5": "^0.8.0"
+  }
+}
